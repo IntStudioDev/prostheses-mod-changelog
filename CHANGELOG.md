@@ -14,6 +14,7 @@ An update focused on implants. Mainly reworks of existing ones, plus 2 new impla
    - "Activate Special" context button
    - "Activate Double Special" context button
 
+
 # [2.3.0] - September 5 2026
 An update focused on prostheses that replace some basic weapons, along with numerous visual improvements.
 ## Added 
@@ -35,6 +36,7 @@ An update focused on prostheses that replace some basic weapons, along with nume
    - Prostheses are damaged by impacts, heat, cold, and electricity
    - Rewritten collision ignore system
    - Items spawn have been optimized
+
 
 # [2.3.0] - February 28 2026
 An update mainly consists of random stuff, but the main highlight is the new Glue mechanic.
@@ -70,6 +72,7 @@ An update mainly consists of random stuff, but the main highlight is the new Glu
    - Energy Sword Arm-1 sorting
    - Fireworks from the Firework Launcher collided with certain prosthetics
 
+
 # [2.2.0] - December 18 2026
 A Christmas-themed update, bringing some festive holiday spirit!
 ## Added 
@@ -89,7 +92,8 @@ A small experimental update
    - Long Metal Leg
    - Warrior
 
-# [2.0.0] - December 18 2026
+
+# [2.0.0] - November 20 2026
 The release of version 2.0 of the mod. A massive rework of all existing features, the return and rework of old prostheses, and the addition of new ones.
 ## Added 
    - Gravitation Ray Arm [GRAB-3] 
