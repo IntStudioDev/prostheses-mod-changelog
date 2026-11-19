@@ -2,22 +2,20 @@
 Prostheses mod changelog list
 
 # [2.4.0] - October 20 2026
-
-## Items 
+An update focused on implants. Mainly reworks of existing ones, plus 2 new implants.
+## Added 
    - Protective visor implant 1.1
    - Protective visor
    - AntiKo-1.1
    - AntiDeath-1
    - Cyclops Implant
    - Frost-Joiner-1
-
-## Improvments
-   - Context Button "Disable Special Activations"
-   - Context Button "Activate Special"
-   - Context Button "Activate Double Special"
+   - "Disable Special Activations" context button
+   - "Activate Special" context button
+   - "Activate Double Special" context button
 
 # [2.3.0] - September 5 2026
-
+An update focused on prostheses that replace some basic weapons, along with numerous visual improvements.
 ## Added 
    - Gravity Foot
    - Grenadiy-1
@@ -25,10 +23,13 @@ Prostheses mod changelog list
    - Rigidifier Arm
    - Blarobey-1
    - Flames-1
+   - Pewo-1
    - Repair Kit
-
-## Improvments
    - Prosthesis functions can be activated using different colored signals
+   - Small fuel tank
+   - Small blue fuel tank
+
+## Changed
    - Attachment point is now shown in detailed view
    - Animation of inserting an attachment into a slot
    - Prostheses are damaged by impacts, heat, cold, and electricity
@@ -36,8 +37,8 @@ Prostheses mod changelog list
    - Items spawn have been optimized
 
 # [2.3.0] - February 28 2026
-
-## Items 
+An update mainly consists of random stuff, but the main highlight is the new Glue mechanic.
+## Added 
    - Broadcast Television
    - Blink Dagger
    - Chain Blink Dagger
@@ -50,23 +51,58 @@ Prostheses mod changelog list
    - Metal Long Full Arm
    - Cheap Full Arm
    - Cheap Full Leg
-
-## Settings
-   - Energy Blade Damage Multiplier
-   - Energy Blade Damage Per Second Multiplier
-
-## Improvments
+   - Energy Blade Damage Multiplier setting
+   - Energy Blade Damage Per Second Multiplier setting
    - Blade type context options: Heat, Freeze
    - Arm selection mod support
+   - "Clear Glue" button
+
+## Changed
    - Prosthetic joints are now hidden when attached to another prosthetic
    - Shortened blade of Energy Sword Arm-1
    - Improved visuals for Energy Sword Arm-1
    - Shock Hand now deals more damage depending on charge duration
    - Reduced maximum charge power of Shock Hand
    - Glue Shooter now supports a Glue Container slot to change glue effects
-   - "Clear Glue" button
    - Completely new catalog sorting system with differently sized cells
 
 ## Fixed
    - Energy Sword Arm-1 sorting
    - Fireworks from the Firework Launcher collided with certain prosthetics
+
+# [2.2.0] - December 18 2026
+A Christmas-themed update, bringing some festive holiday spirit!
+## Added 
+   - Firework Launcher
+   - Energy Sword Arm
+   - Enchanced Fireworks
+   - Upper Metal Arm
+   - Upper Metal Leg
+   - Christmas event
+   - "Add liquid when dismembering" setting
+   - "Liquid amount when dismembering" setting
+
+# [2.1.0] - December 18 2026
+A small experimental update
+## Added 
+   - Long Metal Arm
+   - Long Metal Leg
+   - Warrior
+
+# [2.0.0] - December 18 2026
+The release of version 2.0 of the mod. A massive rework of all existing features, the return and rework of old prostheses, and the addition of new ones.
+## Added 
+   - Gravitation Ray Arm [GRAB-3] 
+   - Homing Rocket Launcher [HRL-1]
+   - Tactical Blade Arm [Blart-1]
+   - Circular Saw Arm [CSA-1]
+   - Shock Hand [SH-1]
+   - Metal Full Arm
+   - Metal Lower Arm
+   - Metal Full Leg
+   - Metal Lower Leg
+   - Metal Foot
+   - Metal Full Body
+   - Metal Upper Body
+   - Metal Middle Body
+   - Metal Lower Body
