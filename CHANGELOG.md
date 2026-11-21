@@ -28,6 +28,10 @@ Drones!
    - Skin "Zombie" for all metal prostheses
    - Skin "Cyber" for all metal prostheses expect long parts
    - Skin "Strict" for transport drone
+   - Skin "Glue" for liquid container
+
+   ## Changed
+   - Glue contaier renamed to liquid container
    
 # [2.4.0] - October 20 2026
 An update focused on implants. Mainly reworks of existing ones, plus 2 new implants.
