@@ -1,6 +1,34 @@
 # Changelog
 Prostheses mod changelog list
 
+# [2.5.0] - October 20 2026
+Drones!
+## Added 
+   - Skin system
+   - Drone controlling
+   - Transport drone
+   - Electric drone
+   - Hornet drone
+   - Kamikaze drone
+   - Charge shooter-2
+   - Charge power cell
+   - Penetrator cell
+   - Cheap upper arm
+   - Cheap lower arm
+   - Cheap upper leg
+   - Cheap lower leg
+   - Cheap foot
+   - "Auto follow controlled robot" mod menu setting
+   - "Stop follow robot to stop control" mod menu setting
+   - "Propellers do damage" mod menu setting
+   - "Propellers sound muted by default" mod menu setting
+   - "Start control newly spawned robot" mod menu setting
+   - Skin "Human" for all metal prostheses
+   - Skin "Android" for all metal prostheses
+   - Skin "Zombie" for all metal prostheses
+   - Skin "Cyber" for all metal prostheses expect long parts
+   - Skin "Strict" for transport drone
+   
 # [2.4.0] - October 20 2026
 An update focused on implants. Mainly reworks of existing ones, plus 2 new implants.
 ## Added 
